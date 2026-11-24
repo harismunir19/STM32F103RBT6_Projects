@@ -1,0 +1,13 @@
+# Build outputs
+*.o
+*.d
+*.elf
+*.map
+
+# IDE temporary files
+.metadata/
+.settings/
+
+# Generated build folders
+Debug/
+Release/
