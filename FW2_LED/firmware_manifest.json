@@ -1,8 +1,9 @@
+
 {
     "schema_version": 1,
     "firmware_id": "stm32f103rbt6-fw2-led",
     "name": "STM32F103RBT6 FW2 LED Firmware",
-    "version": "1.0.0",
+    "version": "1.0.1",
 
     "target": {
         "mcu": "STM32F103RBT6",
@@ -19,7 +20,7 @@
     "firmware": {
         "file": "artifacts/FW2_LED.bin",
         "format": "bin",
-        "sha256": "3378A7F0AE67F0E47C6A7B941BC1C8B8AD8952AF8195F03097D4EB7EB8D7B451"
+        "sha256": "1FCF591342031B0ADB079B362D89120332B80C60CD17CBED3DD6FF35015A9A06"
     },
 
     "flash": {
